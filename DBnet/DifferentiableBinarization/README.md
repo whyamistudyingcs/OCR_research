@@ -13,10 +13,6 @@ Build dataset in the same way as the official implementation.
   datasets/total_text/test_list.txt
 ```
 
-## Train
-`python train.py`
-You can download a trained model weights on TotalText by [baidu netdisk](https://pan.baidu.com/s/1SGKgI6pMuGvUb8RlHePQxA) code:jy6m or [google driver](https://drive.google.com/open?id=1ausCBrADzlhqoo6viuWP_e_zYdiqUKA7)
-
 ## Test
 `python inference.py`
 
