@@ -1,0 +1,6 @@
+Keras==2.2.5
+keras-resnet==0.2.0
+Pillow==6.2.0
+tensorflow
+progressbar2
+git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
